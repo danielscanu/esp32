@@ -23,25 +23,25 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "ESP32 Dev 2 Board"
             },
             {
-              "name": "ESP32-C3 Dev Board"
+              "name": "ESP32-C3 Dev 2 Board"
             },
             {
-              "name": "ESP32-C6 Dev Board"
+              "name": "ESP32-C6 Dev 2 Board"
             },
             {
-              "name": "ESP32-H2 Dev Board"
+              "name": "ESP32-H2 Dev 2 Board"
             },
             {
-              "name": "ESP32-P4 Dev Board"
+              "name": "ESP32-P4 Dev 2 Board"
             },
             {
-              "name": "ESP32-S2 Dev Board"
+              "name": "ESP32-S2 Dev 2 Board"
             },
             {
-              "name": "ESP32-S3 Dev Board"
+              "name": "ESP32-S3 Dev 2 Board"
             },
             {
               "name": "Arduino Nano ESP32"
