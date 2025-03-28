@@ -108,7 +108,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/espressif/esp32-arduino-lib-builder/releases/download/idf-release_v5.4/esp32-arduino-libs-idf-release_v5.4-2f7dcd86-v1.zip",
+              "url": "package_esp32_index.template.json",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-2f7dcd86-v1.zip",
               "checksum": "SHA-256:11f1271fe5e2857155d90384690069e4d33f0f97a4c04e7474b29a7cbc7ededd",
               "size": "352347498"
