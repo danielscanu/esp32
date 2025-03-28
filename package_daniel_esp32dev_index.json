@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "name": "esp32dev",
+      "maintainer": "daniel",
+      "websiteURL": "https://github.com/danielscanu/esp32",
+      "email": "stefanoscanu76@outlook.com",
       "help": {
-        "online": "http://esp32.com"
+        "online": ""
       },
       "platforms": [
         {
