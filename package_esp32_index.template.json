@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "file:///C:/arduinolib/esp32-arduino-lib-builder/out/esp32-3.2.0.zip",
+          "url": "https://danielscanu.github.io/esp32/esp32-3.2.0.zip",
           "archiveFileName": "esp32-3.2.0.zip",
           "checksum": "",
           "size": "",
