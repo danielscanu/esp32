@@ -12,10 +12,10 @@
         {
           "name": "esp32dev",
           "architecture": "esp32",
-          "version": "1.0.0",
+          "version": "3.2.0",
           "category": "ESP32",
-          "url": "",
-          "archiveFileName": "",
+          "url": "https://github.com/danielscanu/esp32/esp32-3.2.0-zip",
+          "archiveFileName": "esp32-3.2.0-zip",
           "checksum": "",
           "size": "",
           "help": {
