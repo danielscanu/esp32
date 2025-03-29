@@ -97,21 +97,21 @@
           "systems": [
             {
               "host": "x86_64-mingw32",
-              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.7z",
+              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:55b3fd8287cc880518ac38e2beea2ab9301e8c81704255d5f8b48a20404e5519"
+              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
             },
             {
               "host": "x86_64-linux",
-              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.7z",
+              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:55b3fd8287cc880518ac38e2beea2ab9301e8c81704255d5f8b48a20404e5519"
+              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
             },
             {
               "host": "x86_64-macos",
-              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.7z",
+              "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:55b3fd8287cc880518ac38e2beea2ab9301e8c81704255d5f8b48a20404e5519"
+              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
             }
           ]
         }
