@@ -14,8 +14,8 @@
           "architecture": "esp32",
           "version": "3.2.0",
           "category": "ESP32",
-          "url": "https://github.com/danielscanu/esp32/esp32-3.2.0-zip",
-          "archiveFileName": "esp32-3.2.0-zip",
+          "url": "https://github.com/danielscanu/esp32/esp32-3.2.0.zip",
+          "archiveFileName": "esp32-3.2.0.zip",
           "checksum": "",
           "size": "",
           "help": {
