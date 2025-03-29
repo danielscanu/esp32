@@ -1,4 +1,4 @@
-{
+a{
   "packages": [
     {
       "name": "esp32dev",
@@ -44,14 +44,14 @@
               "name": "ESP32-S3 Dev 2 Board"
             },
             {
-              "name": "Arduino Nano ESP32"
+              "name": "Arduino Nano ESP32 2"
             }
           ],
           "toolsDependencies": [
             {
               "packager": "esp32",
               "name": "esp32-arduino-libs",
-              "version": "idf-release_v5.4-2f7dcd86-v1"
+              "version": "idf-remake-v1"
             },
             {
               "packager": "esp32",
@@ -104,7 +104,7 @@
       "tools": [
         {
           "name": "esp32-arduino-libs",
-          "version": "idf-release_v5.4-2f7dcd86-v1",
+          "version": "idf-remake-v1",
           "systems": [
             {
               "host": "i686-mingw32",
