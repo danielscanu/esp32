@@ -12,7 +12,7 @@
         {
           "name": "esp32dev",
           "architecture": "esp32",
-          "version": "",
+          "version": "1.0.0",
           "category": "ESP32",
           "url": "",
           "archiveFileName": "",
