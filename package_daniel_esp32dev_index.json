@@ -99,19 +99,43 @@
               "host": "x86_64-mingw32",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
+              "checksum": "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
             },
             {
               "host": "x86_64-linux",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
+              "checksum": "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
             },
             {
               "host": "x86_64-macos",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
+              "checksum": "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
+            }
+          ]
+        },
+        {
+          "name": "esp32-arduino-libs",
+          "version": "idf-remake-v2",
+          "systems": [
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://danielscanu.github.io/esp32/tools/arduino-esp32-libs-esp32-release_v5.4-2f7dcd862a.tar.gz",
+              "archiveFileName": "esp32-arduino-libs.7z",
+              "checksum": "SHA-256:28dc1012d7845706bbeebcc16fe0c776233ff6a0a4b6b647d232c9c9f0d5670b"
+            },
+            {
+              "host": "x86_64-linux",
+              "url": "https://danielscanu.github.io/esp32/tools/arduino-esp32-libs-esp32-release_v5.4-2f7dcd862a.tar.gz",
+              "archiveFileName": "esp32-arduino-libs.7z",
+              "checksum": "SHA-256:28dc1012d7845706bbeebcc16fe0c776233ff6a0a4b6b647d232c9c9f0d5670b"
+            },
+            {
+              "host": "x86_64-macos",
+              "url": "https://danielscanu.github.io/esp32/tools/arduino-esp32-libs-esp32-release_v5.4-2f7dcd862a.tar.gz",
+              "archiveFileName": "esp32-arduino-libs.7z",
+              "checksum": "SHA-256:28dc1012d7845706bbeebcc16fe0c776233ff6a0a4b6b647d232c9c9f0d5670b"
             }
           ]
         }
