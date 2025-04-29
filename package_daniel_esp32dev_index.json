@@ -17,28 +17,28 @@
           "size": "25447136",
           "boards": [
             {
-              "name": "ESP32 Dev 2 Board"
+              "name": "ESP32 Dev Board"
             },
             {
-              "name": "ESP32-C3 Dev 2 Board"
+              "name": "ESP32-C3 Dev Board"
             },
             {
-              "name": "ESP32-C6 Dev 2 Board"
+              "name": "ESP32-C6 Dev Board"
             },
             {
-              "name": "ESP32-H2 Dev 2 Board"
+              "name": "ESP32-H2 Dev Board"
             },
             {
-              "name": "ESP32-P4 Dev 2 Board"
+              "name": "ESP32-P4 Dev Board"
             },
             {
-              "name": "ESP32-S2 Dev 2 Board"
+              "name": "ESP32-S2 Dev Board"
             },
             {
-              "name": "ESP32-S3 Dev 2 Board"
+              "name": "ESP32-S3 Dev Board"
             },
             {
-              "name": "Arduino Nano ESP32 2"
+              "name": "Arduino Nano ESP32"
             }
           ],
           "toolsDependencies": [
@@ -99,19 +99,19 @@
               "host": "x86_64-mingw32",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
+              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
             },
             {
               "host": "x86_64-linux",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
+              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
             },
             {
               "host": "x86_64-macos",
               "url": "https://danielscanu.github.io/esp32/tools/esp32-arduino-libs.tar.gz",
               "archiveFileName": "esp32-arduino-libs.7z",
-              "checksum" : "SHA-256:f507504f3474f2762f83c924de01a8aff96e20e352288c309a6eca7b9b54b907"
+              "checksum" : "SHA-256:f608ff4f35762a6e99344881ff41693da74dd696a8e2d47d8e6363ead6da3b87"
             }
           ]
         }
